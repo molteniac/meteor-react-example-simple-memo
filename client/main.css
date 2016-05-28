@@ -38,7 +38,7 @@ body {
 .memo-item {
   display: inline-block;
   position: relative;
-  background-color: #AFF4FE;
+  background-color: #FEC7C8;
   min-height: 200px;
   width: 300px;
   border: 1px solid rgba(200, 200, 200, 0.2);
